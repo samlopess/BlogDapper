@@ -1,0 +1,104 @@
+D:\Balta\Blog\bin\Debug\net7.0\Blog.exe
+D:\Balta\Blog\bin\Debug\net7.0\Blog.deps.json
+D:\Balta\Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
+D:\Balta\Blog\bin\Debug\net7.0\Blog.dll
+D:\Balta\Blog\bin\Debug\net7.0\Blog.pdb
+D:\Balta\Blog\obj\Debug\net7.0\Blog.csproj.AssemblyReference.cache
+D:\Balta\Blog\obj\Debug\net7.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Balta\Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
+D:\Balta\Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
+D:\Balta\Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+D:\Balta\Blog\obj\Debug\net7.0\Blog.dll
+D:\Balta\Blog\obj\Debug\net7.0\refint\Blog.dll
+D:\Balta\Blog\obj\Debug\net7.0\Blog.pdb
+D:\Balta\Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
+D:\Balta\Blog\obj\Debug\net7.0\ref\Blog.dll
+D:\Balta\Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\Balta\Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\Balta\Blog\bin\Debug\net7.0\Dapper.dll
+D:\Balta\Blog\bin\Debug\net7.0\Dapper.Contrib.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Balta\Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Balta\Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Balta\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Balta\Blog\obj\Debug\net7.0\Blog.csproj.CopyComplete
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Blog.exe
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Blog.deps.json
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Blog.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Blog.pdb
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Azure.Core.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Azure.Identity.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Dapper.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Dapper.Contrib.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Balta e Estudos\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.csproj.AssemblyReference.cache
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.csproj.CopyComplete
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.dll
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\refint\Blog.dll
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.pdb
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
+D:\Balta e Estudos\Blog\obj\Debug\net7.0\ref\Blog.dll
